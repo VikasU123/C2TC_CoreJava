@@ -6,6 +6,7 @@ public class KnowChe2 {
 		KnowChe2 c = new KnowChe2();
 		KnowChe2 c1 = c;
 		c1.name ="C2TC";
+		c = null;
 		System.out.println(c.name);
 
 	}
