@@ -1,4 +1,4 @@
-
+//Program on else if statement
 public class ElseIfSta {
 
 	public static void main(String[] args) {
@@ -16,3 +16,4 @@ public class ElseIfSta {
 	}
 
 }
+// Output: Java

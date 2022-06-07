@@ -1,4 +1,4 @@
-
+//Program on class instantiation
 public class ClassInstantiation6{
 			int x;
 			int y;
@@ -17,3 +17,8 @@ public class ClassInstantiation6{
 	}
 
 }
+/*Output:
+1
+2
+3
+*/

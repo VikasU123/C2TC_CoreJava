@@ -1,4 +1,4 @@
-
+//Program on variable display
 public class VarDispl {
 
 	public static void main(String[] args) {
@@ -8,3 +8,4 @@ public class VarDispl {
 	}
 
 }
+// output: Hello vikas

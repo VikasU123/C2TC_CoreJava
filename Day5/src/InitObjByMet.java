@@ -1,3 +1,4 @@
+//Initialize object by method
 public class InitObjByMet {
 	int rollno;
 	String name;
@@ -22,3 +23,7 @@ class Student{
 	}
 
 }
+/*Output:
+111 vikas
+222 sanjay
+*/

@@ -1,4 +1,4 @@
-
+//Comparison of && and & operator
 public class BitAndLogAnd {
 
 	public static void main(String[] args) {
@@ -15,3 +15,10 @@ public class BitAndLogAnd {
 	}
 
 }
+/* Output: 
+false
+false
+10
+false
+11
+*/

@@ -1,4 +1,4 @@
-
+//Knowledge check question
 public class KnowChe1 {
 	int weight;
 }
@@ -14,3 +14,4 @@ class Weight{
 	}
 
 }
+//Output: 2

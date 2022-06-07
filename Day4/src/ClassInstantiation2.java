@@ -1,4 +1,4 @@
-
+//Program on class instantiation using two objects
 public class ClassInstantiation2 {
 	int x;
 
@@ -13,3 +13,7 @@ public class ClassInstantiation2 {
 	}
 
 }
+/* Output:
+24
+55
+*/

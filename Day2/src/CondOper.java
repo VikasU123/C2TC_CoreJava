@@ -1,4 +1,4 @@
-
+//program on conditional operator
 public class CondOper {
 
 	public static void main(String[] args) {
@@ -12,3 +12,7 @@ public class CondOper {
 	}
 
 }
+/* Output:
+10
+20
+*/

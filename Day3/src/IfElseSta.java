@@ -1,4 +1,4 @@
-
+//Program on if else statement
 public class IfElseSta {
 
 	public static void main(String[] args) {
@@ -13,3 +13,4 @@ public class IfElseSta {
 	}
 
 }
+// Output: x = y is greater than 20

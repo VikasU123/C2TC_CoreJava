@@ -1,4 +1,4 @@
-
+//Comparison of || and | operator
 public class BitOrLogOr {
 
 	public static void main(String[] args) {
@@ -15,3 +15,10 @@ public class BitOrLogOr {
 	}
 
 }
+/*Output:
+true
+true
+10
+true
+11
+*/

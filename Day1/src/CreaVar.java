@@ -1,4 +1,4 @@
-
+//Program to create variable
 public class CreaVar {
 
 	public static void main(String[] args) {
@@ -8,3 +8,4 @@ public class CreaVar {
 	}
 
 }
+//Output: 15

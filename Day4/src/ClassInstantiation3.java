@@ -1,4 +1,4 @@
-
+//Program on class instantiation to print default value
 public class ClassInstantiation3 {
 	int x;
 
@@ -11,3 +11,7 @@ public class ClassInstantiation3 {
 	}
 
 }
+/*Output: 
+0
+0
+*/

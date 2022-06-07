@@ -1,4 +1,4 @@
-
+//Knowledge check question
 public class KnowChe2 {
 	String name;
 
@@ -12,3 +12,4 @@ public class KnowChe2 {
 	}
 
 }
+// Output:   java.lang.NullPointerException

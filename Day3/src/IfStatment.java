@@ -1,4 +1,4 @@
-
+//Program on simple if statement
 public class IfStatment {
 
 	public static void main(String[] args) {
@@ -11,3 +11,4 @@ public class IfStatment {
 	}
 
 }
+//output: x + y is greater than 20

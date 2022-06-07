@@ -1,4 +1,4 @@
-
+//Program on for each loop
 public class ForEachLoop {
 
 	public static void main(String[] args) {
@@ -10,3 +10,10 @@ public class ForEachLoop {
 	}
 
 }
+/* Output:
+12
+23
+44
+56
+78
+*/

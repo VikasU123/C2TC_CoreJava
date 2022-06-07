@@ -1,4 +1,4 @@
-
+//Program on class instantiation using more then one instance variable
 public class ClassInstantiation4 {
 	String x;
 	float y;
@@ -24,3 +24,11 @@ public class ClassInstantiation4 {
 	}
 
 }
+/* Output:
+null
+0.0
+
+0.0
+0.0
+0
+*/

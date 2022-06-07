@@ -1,4 +1,4 @@
-
+//Programming on narrowing casting
 public class NarCast {
 
 	public static void main(String[] args) {
@@ -10,3 +10,5 @@ public class NarCast {
 	}
 
 }
+/*Output: 9.78
+          9*/

@@ -1,4 +1,4 @@
-
+//Programming on operator unary
 public class OperUnary {
 
 	public static void main(String[] args) {
@@ -14,3 +14,4 @@ public class OperUnary {
 	}
 
 }
+/*output: a=6 b=3 c=4 d=5*/

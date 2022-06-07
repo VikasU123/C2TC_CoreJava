@@ -1,4 +1,4 @@
-
+//Program on class instantiation
 public class ClassInstantiation1 {
 int x;
 }
@@ -11,3 +11,4 @@ class TestDemo{
 	}
 
 }
+//Output: 40

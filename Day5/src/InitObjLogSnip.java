@@ -1,4 +1,4 @@
-
+//Program on initialize object by logical snippets
 public class InitObjLogSnip {
 
 	public static void main(String[] args) {
@@ -16,3 +16,7 @@ public class InitObjLogSnip {
     	return "good";
     }
 }
+/* Output:
+dogoog
+: dogood
+*/

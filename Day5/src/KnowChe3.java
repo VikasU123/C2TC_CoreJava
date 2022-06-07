@@ -1,4 +1,4 @@
-
+//Knowledge check question
 public class KnowChe3 {
 	String name;
 
@@ -12,3 +12,7 @@ public class KnowChe3 {
 	}
 
 }
+/*Output:
+C2TC
+null
+*/

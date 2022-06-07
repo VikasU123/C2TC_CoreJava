@@ -1,4 +1,4 @@
-
+//Program on widening casting
 public class WidCast {
 
 	public static void main(String[] args) {
@@ -10,3 +10,5 @@ public class WidCast {
 	}
 
 }
+/* Output: 9.0
+           9    */

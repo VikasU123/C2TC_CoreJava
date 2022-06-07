@@ -1,4 +1,4 @@
-
+// Program on simple for loop
 public class SimForLoop {
 
 	public static void main(String[] args) {
@@ -9,3 +9,8 @@ public class SimForLoop {
 	}
 
 }
+/* Output:
+0
+1
+2
+*/

@@ -1,4 +1,4 @@
-
+//program on nested if statement
 public class NesIfSta {
 
 	public static void main(String[] args) {
@@ -18,3 +18,4 @@ public class NesIfSta {
 	}
 
 }
+// Output: language is java

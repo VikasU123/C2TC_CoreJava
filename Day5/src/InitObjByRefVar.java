@@ -1,3 +1,4 @@
+//Initialize object by reference variable
 public class InitObjByRefVar {
 	int id;
 	String name;
@@ -13,3 +14,4 @@ class Main{
 	}
 
 }
+//Output: 72 Vikas
