@@ -1,0 +1,8 @@
+package com.cg.dao;
+
+import com.cg.entity.Student;
+
+public interface StudentDAO {
+	public abstract Student getStudentById(int id);
+
+}
