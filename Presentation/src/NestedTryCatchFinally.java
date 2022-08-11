@@ -6,10 +6,12 @@ public class NestedTryCatchFinally {
 		try {
 			System.out.println("Statement 1");
 			System.out.println("Statement 2");
-			
-			System.out.println("Statement 3");
-			
-			
+			  try {
+				  System.out.println("Statement 3");
+			  }
+			  catch(Exception e) {
+				
+			}
 			System.out.println("Statement 4");
 			System.out.println("Statement 5");
 		}
