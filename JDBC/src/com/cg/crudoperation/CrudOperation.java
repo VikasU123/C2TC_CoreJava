@@ -11,6 +11,7 @@ public class CrudOperation {
 	public static void createStudent() throws SQLException {
 		Connection connection = DBUtil.getConnection();
 		Statement st = connection.createStatement();
+		
 		String sqlinsert = "INSERT INTO students(name, branch, gender, collage)"+"values('Vikas','ME','M','AIT')";
 		int execute = st.executeUpdate(sqlinsert);
 		if(execute==1) {

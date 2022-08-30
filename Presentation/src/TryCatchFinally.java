@@ -11,6 +11,9 @@ public class TryCatchFinally {
 		catch(Exception e) {
 			
 		}
+		finally {
+			System.out.println("Close database connection");
+		}
 
 	}
 

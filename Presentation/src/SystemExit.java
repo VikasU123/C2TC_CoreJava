@@ -5,7 +5,7 @@ public class SystemExit {
 		try {
 			System.out.println("Statement 1");
 			System.out.println("Statement 2");
-			
+		    System.exit(0);
 			System.out.println("Statement 3");
 			System.out.println("Statement 4");
 		}
